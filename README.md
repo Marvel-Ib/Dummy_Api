@@ -1,5 +1,4 @@
 # Dummy_Api
-# Money Moves
 Node.js app made with Express that uses  [Faker.js](https://www.npmjs.com/package/faker) 
 
 ### The whole point was to create a fake rest api i can use to test any project at any time
