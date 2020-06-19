@@ -8,7 +8,7 @@ Node.js app made with Express that uses  [Faker.js](https://www.npmjs.com/packag
 Node app deployed and ran on Glitch, 
 
 ## click the link below to see the live app 
-# [check](https://dummy-fakeapi.glitch.me)
+# [check](https://marvel-dummy-api.herokuapp.com/)
 
 # Usage
 ## Installation
